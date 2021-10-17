@@ -1,14 +1,4 @@
-# Writer's random prompt generator
-A tool which generates a new idea for writing with every call of a `newPrompt()` function. 
 
-It includes three different data sets: who, where, what they do.
-
-Programing language used: JavaScript.
-
-For now, it is pure JavaScript. We can incorporate it into HTML and activate it by push of a button.
-
-# Writer's random prompt generator
-A tool which generates a new idea for writing with every call of a `newPrompt()` function.
 
 ## General Information
 - The idea behind the project is to make a tool for writer to get an initial idea what to write. If writer experiences writer's block, it might serve as an impulse to get thought train going again.
